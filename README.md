@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Saharan</h1>
 <h3 align="center">Hello there! I'm Aryan Saharan, a passionate B.Tech Computer Science student, always exploring the realms of technology and code. Currently navigating through the exciting journey of my undergraduate degree, I've cultivated a decent understanding of coding, with a keen interest in enhancing my skills further. While I might describe my coding knowledge as "okayish," I believe in continuous learning and improvement. Along the way, I've translated my theoretical knowledge into practical applications, having worked on some minor projects. My GitHub is a reflection of my coding adventures, showcasing my projects and the evolution of my skills. Join me on this coding expedition, where curiosity meets creation!</h3>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
