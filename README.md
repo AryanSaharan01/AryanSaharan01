@@ -1,12 +1,27 @@
-![Aryan Saharan's GitHub Banner]([https://your-image-url.com/banner-image.png](https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg))
-
+![MasterHead](https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ)
 
 <h1 align="center">Hi 👋, I'm Aryan Saharan</h1>
 <h3 align="center">Hello there! I'm Aryan Saharan, a passionate B.Tech Computer Science student, always exploring the realms of technology and code. Currently navigating through the exciting journey of my undergraduate degree, I've cultivated a decent understanding of coding, with a keen interest in enhancing my skills further. While I might describe my coding knowledge as "okayish," I believe in continuous learning and improvement. Along the way, I've translated my theoretical knowledge into practical applications, having worked on some minor projects. My GitHub is a reflection of my coding adventures, showcasing my projects and the evolution of my skills. Join me on this coding expedition, where curiosity meets creation!</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+- 🔭 I'm a B.Tech CSE student passionate about technology and its applications.
+    
+- 🚀 I enjoy transforming ideas into reality and have crafted some minor yet impactful projects.
+  
+- 💻 I love working with diverse technologies and learning new things along the way.
+
 - 🔭 I’m currently working on **Chat Application**
 
 - 🌱 I’m currently learning **Full Stack and Python**
+  
+- 🐍 **Python**: Proficient in Flask and exploring other frameworks.
+  
+- ☕ **Java**: Building robust applications and diving into the world of Java.
+  
+- 🌐 **Web Development**: Crafting beautiful and functional websites using HTML, CSS, and JavaScript.
+  
+- 🚀 **Node.js**: Venturing into server-side JavaScript for scalable applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryanSaharan01?tab=repositories](https://github.com/AryanSaharan01?tab=repositories)
 
