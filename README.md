@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aryan Saharan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there! 👋 I'm Aryan Saharan
+
+- 🎓 B.Tech CSE Student
+- 💻 Developing coding skills, one line at a time
+- 🚀 Created some cool minor projects
+- 🌐 Exploring the vast world of Computer Science
+- 📚 Learning, coding, and turning caffeine into code
+
+Connect with me and explore the coding journey together! 🚀
+
 
 - 🔭 I’m currently working on **Chat Application**
 
