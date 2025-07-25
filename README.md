@@ -1,11 +1,9 @@
-![Banner](https://i.imgur.com/QMso7Ym.png) <!-- Modern, clean tech banner -->
+![MasterHead](https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ)
 
 <h1 align="center">Hi there! 👋 I'm Aryan Saharan</h1>
 <h3 align="center">🚀 B.Tech CSE Student | Passionate Developer | Tech Explorer</h3>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="320" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://i.pinimg.com/originals/ff/09/e3/ff09e3b7a5a7c0d80dbed6ff85a2483f.gif" width="320"/>
 </div>
 
@@ -58,14 +56,15 @@ Whether it’s backend logic or frontend beauty, I’m all in.
 
 ### 🚀 Featured Projects
 
-Here are some things I've been cooking in the dev lab:
+Here are some highlights from my dev journey:
 
-- 🔐 **Flask Auth System** – OTP + Email-based login  
-- 💬 **Real-time Chat App** – Node.js + Socket.io  
-- 🛒 **E-commerce Site** – Pure HTML/CSS + JS cart logic  
-- 📊 **Student Dashboard** – MongoDB + Express + ChartJS
+- 🔐 **Flask Authentication System** – Secure login with OTP/email verification  
+- 🗳️ **Voting Application** – A modern, Aadhaar-inspired voting platform  
+- 🌐 **Personal Portfolio Website** – Showcasing my work & resume  
+- 🍽️ **Restaurant Website** – Static + dynamic content with clean UI/UX  
+- 🛠️ **And many more** – Check out all my builds & commits on GitHub
 
-Check them out 👉 [GitHub Portfolio](https://github.com/AryanSaharan01?tab=repositories)
+Explore my work 👉 [GitHub Portfolio](https://github.com/AryanSaharan01?tab=repositories)
 
 ---
 
@@ -87,4 +86,3 @@ Or in my case...
 > *“I write code so well, even the bugs are impressed.” 😎*
 
 ---
-
