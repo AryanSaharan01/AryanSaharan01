@@ -19,7 +19,7 @@ Whether it’s backend logic or frontend beauty, I’m all in.
 - 🌱 Learning: **Full Stack Dev & Python Frameworks**
 - 💬 Ask me about: Flask, Node.js, Java, DBs, and solving silly bugs
 - 🌍 Goal: Contribute to open-source & land impactful internships
-- 📫 Reach out: **aryan.github01@gmail.com**
+- 📫 Reach out: **aryan01.github@gmail.com**
 
 ---
 
@@ -36,15 +36,15 @@ Whether it’s backend logic or frontend beauty, I’m all in.
 <table>
   <tr>
     <td><strong>🗓️ Coding Since</strong></td>
-    <td>2022</td>
+    <td>2023</td>
   </tr>
   <tr>
     <td><strong>📁 Repos Published</strong></td>
-    <td>15+ mini to medium projects</td>
+    <td>10+ mini to medium projects</td>
   </tr>
   <tr>
     <td><strong>🔧 Fav Stack</strong></td>
-    <td>MERN + Flask + Java</td>
+    <td>MERN + Flask + JavaScript</td>
   </tr>
   <tr>
     <td><strong>💡 Currently Reading</strong></td>
@@ -71,8 +71,8 @@ Explore my work 👉 [GitHub Portfolio](https://github.com/AryanSaharan01?tab=re
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:aryan.github01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aryansaharan01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aryan01.github@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-saharan-476537265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AryanSaharan01"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
